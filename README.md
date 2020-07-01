@@ -1,7 +1,7 @@
 # Markdown
 Este é um guia criado para auxiliar nos estudos sobre a linguagem de marcação Markdown. 
 
-Clique [aqui](https://testing.com) para ir ao guia de Markdown.
+Clique [aqui](https://github.com/igorsoares/Markdown/blob/master/markdown.md) para ir ao guia de Markdown.
 
 ## Contato
 * igor.hscuculha@gmail.com
